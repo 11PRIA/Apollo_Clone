@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Priya Sharma",
+    "speciality": "Gynecologist",
+    "location": "New Delhi",
+    "experience": 15,
+    "rating": 4.5,
+    "mode_of_consult": "In-person",
+    "fees": 800,
+    "language": "Hindi"
+  },
+  {
+    "name": "Arjun Verma",
+    "speciality": "Cardiologist",
+    "location": "Mumbai",
+    "experience": 22,
+    "rating": 4.9,
+    "mode_of_consult": "Online",
+    "fees": 1200,
+    "language": "English"
+  },
+  {
+    "name": "Sneha Kapoor",
+    "speciality": "Dermatologist",
+    "location": "Bangalore",
+    "experience": 8,
+    "rating": 3.8,
+    "mode_of_consult": "In-person",
+    "fees": 650,
+    "language": "Kannada"
+  },
+  {
+    "name": "Rohan Singh",
+    "speciality": "Orthopedic",
+    "location": "Chennai",
+    "experience": 12,
+    "rating": 4.2,
+    "mode_of_consult": "Online",
+    "fees": 950,
+    "language": "Tamil"
+  },
+  {
+    "name": "Anjali Patel",
+    "speciality": "Pediatrician",
+    "location": "Ahmedabad",
+    "experience": 5,
+    "rating": 4.1,
+    "mode_of_consult": "In-person",
+    "fees": 550,
+    "language": "Gujarati"
+  },
+  {
+    "name": "Vikram Choudhary",
+    "speciality": "Neurologist",
+    "location": "Kolkata",
+    "experience": 18,
+    "rating": 4.7,
+    "mode_of_consult": "Online",
+    "fees": 1100,
+    "language": "Bengali"
+  },
+  {
+    "name": "Divya Nair",
+    "speciality": "ENT Specialist",
+    "location": "Hyderabad",
+    "experience": 10,
+    "rating": 3.9,
+    "mode_of_consult": "In-person",
+    "fees": 700,
+    "language": "Telugu"
+  },
+  {
+    "name": "Suresh Kumar",
+    "speciality": "General Physician",
+    "location": "Pune",
+    "experience": 25,
+    "rating": 4.3,
+    "mode_of_consult": "Online",
+    "fees": 850,
+    "language": "Marathi"
+  },
+  {
+    "name": "Meera Menon",
+    "speciality": "Psychiatrist",
+    "location": "Kochi",
+    "experience": 7,
+    "rating": 4.0,
+    "mode_of_consult": "In-person",
+    "fees": 780,
+    "language": "Malayalam"
+  },
+  {
+    "name": "Rajesh Yadav",
+    "speciality": "Oncologist",
+    "location": "Ghaziabad",
+    "experience": 14,
+    "rating": 4.6,
+    "mode_of_consult": "Online",
+    "fees": 1300,
+    "language": "Hindi"
+  },
+
+  {
+    "name": "Deepika Verma",
+    "speciality": "Dentist",
+    "location": "Jaipur",
+    "experience": 9,
+    "rating": 4.4,
+    "mode_of_consult": "In-person",
+    "fees": 580,
+    "language": "Hindi"
+  },
+  {
+    "name": "Kunal Sharma",
+    "speciality": "Cardiologist",
+    "location": "Lucknow",
+    "experience": 16,
+    "rating": 4.1,
+    "mode_of_consult": "Online",
+    "fees": 1150,
+    "language": "Urdu"
+  },
+  {
+    "name": "Shalini Nair",
+    "speciality": "General Physician",
+    "location": "Coimbatore",
+    "experience": 6,
+    "rating": 3.5,
+    "mode_of_consult": "In-person",
+    "fees": 450,
+    "language": "Tamil"
+  },
+  {
+    "name": "Amit Patel",
+    "speciality": "Neurologist",
+    "location": "Vadodara",
+    "experience": 21,
+    "rating": 4.8,
+    "mode_of_consult": "Online",
+    "fees": 1050,
+    "language": "Gujarati"
+  },
+  {
+    "name": "Pooja Singh",
+    "speciality": "Gynecologist",
+    "location": "Indore",
+    "experience": 11,
+    "rating": 4.0,
+    "mode_of_consult": "In-person",
+    "fees": 720,
+    "language": "Hindi"
+  },
+  {
+    "name": "Rahul Choudhary",
+    "speciality": "Orthopedic",
+    "location": "Nagpur",
+    "experience": 7,
+    "rating": 3.7,
+    "mode_of_consult": "Online",
+    "fees": 900,
+    "language": "Marathi"
+  },
+  {
+    "name": "Divya Menon",
+    "speciality": "Pediatrician",
+    "location": "Thiruvananthapuram",
+    "experience": 19,
+    "rating": 4.5,
+    "mode_of_consult": "In-person",
+    "fees": 680,
+    "language": "Malayalam"
+  },
+  {
+    "name": "Siddharth Verma",
+    "speciality": "ENT Specialist",
+    "location": "Chandigarh",
+    "experience": 13,
+    "rating": 4.2,
+    "mode_of_consult": "Online",
+    "fees": 880,
+    "language": "Punjabi"
+  },
+  {
+    "name": "Neha Sharma",
+    "speciality": "Psychiatrist",
+    "location": "Bhopal",
+    "experience": 4,
+    "rating": 3.9,
+    "mode_of_consult": "In-person",
+    "fees": 520,
+    "language": "Hindi"
+  },
+  {
+    "name": "Vivek Patel",
+    "speciality": "Oncologist",
+    "location": "Varanasi",
+    "experience": 23,
+    "rating": 4.7,
+    "mode_of_consult": "Online",
+    "fees": 1250,
+    "language": "Hindi"
+  }
+]
